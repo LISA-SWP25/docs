@@ -1,16 +1,16 @@
 # AI Tools Utilization Report
 
-## A1  
+## Assignment 1  
 **DeepSeek** was used to find products for the **Qualitative Analysis Table**.
 
-## A2  
+## Assignment 2  
 **Claude** was used to generate the **Data Model**.  
 **DeepSeek** was used to generate **User Stories**.
 
-## A3  
+## Assignment 3  
 **DeepSeek** was used for the **summarizing of the work**.
 
-## A4  
+## Assignment 4  
 **ChatGPT** was used for:
 - **Section 10**: Available QA Tools Summary  
 - **Section 11**: Justified List of Tools  
@@ -21,7 +21,7 @@
 **Claude** was used for:
 - **Section 15**: Testing Reports
 
-## A5  
+## Assignment 5  
 **Claude** was used for:
 - **Section 5**: Product Roadmap  
 
@@ -32,8 +32,8 @@
 **ChatGPT** was used for:
 - **Section 8**: Link to the README.md
 
-## A6  
+## Assignment 6 
 **DeepSeek**, **Claude**, and **ChatGPT** were used.
 
-## A7  
+## Assignment 7  
 **DeepSeek**, **Claude**, **Perplexity**, and **ChatGPT** were used.
